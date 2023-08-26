@@ -1,0 +1,3 @@
+[submodule "@GLTF"]
+	path = @GLTF
+	url = https://github.com/rohan-collins/MATLAB-GLTF

@@ -1,0 +1,6 @@
+# Ignore the plots and movies
+.DS_Store
+MWE*
+*.pdf
+*.gif
+*.gltf
